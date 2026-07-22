@@ -25,9 +25,9 @@ We develop AI-powered software solutions for:
 
 ## 📫 Contact
 
-🌐 Website: Coming Soon
+🌐 Website: https://ismdatatech.com/
 
-📧 Email: contact@ismdatatechnology.com
+📧 Email: official@ismdatatech.com
 
 ---
 ⭐ Building the future with Artificial Intelligence.
